@@ -6,3 +6,6 @@ __pycache__/
 .env
 # Fotos e materiais quando ARMAZENAMENTO=disco sem ARMAZENAMENTO_DIR (desenvolvimento)
 app/arquivos/
+
+# Claude Code: settings.local.json guarda comandos aprovados (pode conter segredos)
+.claude/
